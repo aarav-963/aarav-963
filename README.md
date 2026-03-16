@@ -1,29 +1,29 @@
-![logo](logo)
+![logo](https://www.freepik.com/free-photos-vectors/cloud-devops)
 
-<h1 align="center">Hi 👋, I'm YOURNAME</h1>
+<h1 align="center">Hi 👋, I'm Vivek Kedia</h1>
 <h3 align="center">intro</h3>
 
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=username&label=Profile%20views&color=0e75b6&style=flat" alt="username" />
+  <img src="https://komarev.com/ghpvc/?username=vivekkedia53&label=Profile%20views&color=0e75b6&style=flat" alt="vivekkedia53" />
 </p>
 
 # 💫 About Me:
 
 - 🌱 I’m currently learning **Javascript along with React JS. along with Machine Learning with Python**
 
-- 👨‍💻 All of my projects are available at [linkedin-link](linkedin-link)
+- 👨‍💻 All of my projects are available at [LinkedIn](https://www.linkedin.com/in/vivek-kedia-82469238)
 
-- 📫 How to reach me **email id**
+- 📫 How to reach me **vivekkedia53@gmail.com**
 
 # 🌐 Socials:
 
 <p align="left">
-  <a href="linkedin link" target="blank">
+  <a href="https://www.linkedin.com/in/vivek-kedia-82469238" target="blank">
     <img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="your name"
+      alt="vivek kedia"
       height="30"
       width="40" />
   </a>
@@ -100,16 +100,16 @@
 
 # most used tech on git repo
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=username&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vivekkedia53&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <p>
   <img align="center"
-       src="https://github-readme-stats.vercel.app/api?username=username&show_icons=true&locale=en"
-       alt="id" />
+       src="https://github-readme-stats.vercel.app/api?username=vivekkedia53&show_icons=true&locale=en"
+       alt="vivekkedia53" />
 </p>
 
 <p>
   <img align="center"
-       src="https://github-readme-streak-stats.herokuapp.com/?user=username&"
-       alt="username" />
+       src="https://github-readme-streak-stats.herokuapp.com/?user=vivekkedia53&"
+       alt="vivekkedia53" />
 </p>
