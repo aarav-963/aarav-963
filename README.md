@@ -1,26 +1,115 @@
-# Hi, I'm Akshat 👋
+![logo](logo)
 
-## About Me
-DevOps and AI enthusiast passionate about automation and cloud technologies.
+<h1 align="center">Hi 👋, I'm YOURNAME</h1>
+<h3 align="center">intro</h3>
 
-## Skills
-- AWS
-- Docker
-- Kubernetes
-- Terraform
-- Python
-- GitOps
+<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-## Projects
-### 1. Agentic AI Stock Trading System
-Automated AI system that monitors market data, analyzes trends and executes trades using APIs.
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=username&label=Profile%20views&color=0e75b6&style=flat" alt="username" />
+</p>
 
-### 2. Kubernetes Deployment Project
-Created scalable deployments and services using Kubernetes.
+# 💫 About Me:
 
-### 3. DevOps CI/CD Pipeline
-Implemented CI/CD pipeline using Jenkins, Docker and AWS.
+- 🌱 I’m currently learning **Javascript along with React JS. along with Machine Learning with Python**
 
-## Contact
-LinkedIn: your link
-Email: your email
+- 👨‍💻 All of my projects are available at [linkedin-link](linkedin-link)
+
+- 📫 How to reach me **email id**
+
+# 🌐 Socials:
+
+<p align="left">
+  <a href="linkedin link" target="blank">
+    <img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="your name"
+      height="30"
+      width="40" />
+  </a>
+
+  <a href="instagram id link" target="blank">
+    <img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="instagram id"
+      height="30"
+      width="40" />
+  </a>
+</p>
+
+# 🎃 Languages and Tools:
+
+<p align="left">
+
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  </a>
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
+      alt="pandas"
+      width="40"
+      height="40"/>
+  </a>
+
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+      alt="python"
+      width="40"
+      height="40"/>
+  </a>
+
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+      alt="react"
+      width="40"
+      height="40"/>
+  </a>
+
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"
+      alt="tensorflow"
+      width="40"
+      height="40"/>
+  </a>
+
+</p>
+
+# 💻 Tech Stack:
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
+
+# most used tech on git repo
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=username&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<p>
+  <img align="center"
+       src="https://github-readme-stats.vercel.app/api?username=username&show_icons=true&locale=en"
+       alt="id" />
+</p>
+
+<p>
+  <img align="center"
+       src="https://github-readme-streak-stats.herokuapp.com/?user=username&"
+       alt="username" />
+</p>
