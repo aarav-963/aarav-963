@@ -1,4 +1,4 @@
-![logo](https://www.freepik.com/free-photos-vectors/cloud-devops)
+![logo](https://img.freepik.com/free-vector/gradient-devops-illustration_23-2149370940.jpg?semt=ais_hybrid&w=740&q=80)
 
 <h1 align="center">Hi 👋, I'm Vivek Kedia</h1>
 <h3 align="center">intro</h3>
