@@ -1,6 +1,6 @@
 ![logo](https://img.freepik.com/free-vector/gradient-devops-illustration_23-2149370940.jpg?semt=ais_hybrid&w=740&q=80)
 
-<h1 align="center">Hi 👋, I'm Vivek Kedia</h1>
+<h1 align="center">Hi 👋, I'm Aarav Singh</h1>
 <h3 align="center">Passionate Developer | JavaScript | React JS | Machine Learning Enthusiast</h3>
 
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
